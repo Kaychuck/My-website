@@ -1,0 +1,40 @@
+---
+title: "Ikechukwu Onwuka"
+image: "profile.jpg"
+links:
+  - label: LinkedIn
+    url: "https://linkedin.com/in/ikechukwu-onwuka-253402105/"
+  - label: Twitter
+    url: "https://twitter.com/ike_onwuka"
+  - label: GitHub
+    url: "https://github.com/Kaychuck"
+  - label: Email
+    url: "mailto:ionwuka95@gmail.com"
+output:
+  postcards::trestles
+---
+ 
+## Bio
+
+Ikechukwu (Ike) Onwuka is a PhD Candidate at 
+@FIUEnvironment who studies nutrient, sediment and water interactions in the canals of South Florida and America's Everglades. I use surrogate measurements to develop high frequency continuous water quality measurements and data science tools to detect patterns in aquatic systems to make inferences and predictions for water resource management. I am interested in using data science to connect water, aquatic sciences, climate change and food security to environmental sustainability. I am looking to collaborate with industry, academia, intergovernmental and global organizations, such as the United Nations.
+
+## Education
+
+**Florida International University** | Miami, FL
+
+Ph.D. in Earth Systems Science | Expected August 2022
+
+**Florida International University** | Miami, FL
+
+M.S. in Environmental Studies | August 2020
+
+**University of Ghana, Legon** | Accra, Ghana
+
+B.SC. in Oceanography | May 2013 
+
+## Experience
+
+**PhD Candidate** | Everglades Foundation Fellow | January 2021 - Present
+
+**PhD Student/Candidate** | Graduate Teaching Assistant | August 2016 - December 2020
